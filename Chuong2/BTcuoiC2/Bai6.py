@@ -5,5 +5,4 @@ He_so_phu_cap=float(input("He so phu cap: "))
 Tien_tam_ung=int(input("Tam ung: "))
 Luong=(Don_gia_ngay_cong*Ngay_cong*He_so_phu_cap)
 Thuc_linh=(Luong-Tien_tam_ung)
-print("Nhan vien ",Ho_ten,", Co tien luong=",Luong,", Tam ung=",Tien_tam_ung," va Thuc linh=",Thuc_linh,sep="")
-                    
+print("Nhan vien ",Ho_ten,", Co tien Luong=",Luong,", Tam ung=",Tien_tam_ung," va Thuc linh=",Thuc_linh,sep="")
